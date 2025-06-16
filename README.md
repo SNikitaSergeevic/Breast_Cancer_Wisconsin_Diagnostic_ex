@@ -146,7 +146,7 @@ results/
 ## DAG в Airflow
 
 
-![DAG Screenshot](image.png)
+![DAG Screenshot](/mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/Screenshot.png)
 
 ---
 

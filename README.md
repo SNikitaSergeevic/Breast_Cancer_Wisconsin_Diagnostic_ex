@@ -77,13 +77,13 @@ make clean      # Очистка результатов
 airflow dags list
 
 # Ручной запуск
-airflow dags trigger breast_cancer_pipeline
+airflow dags trigger ml_pl
 
 # Тестирование задачи
 airflow tasks test download_data 2025-06-17
 ```
 
-**DAG ID**: `breast_cancer_pipeline`
+**DAG ID**: `ml_pl`
 
 ---
 

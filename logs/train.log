@@ -1,0 +1,28 @@
+[2025-06-15 19:29:07,292] INFO - Загружено 569 строк из /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-15 19:29:07,318] INFO - Модель успешно обучена и сохранена в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/model.pkl
+[2025-06-15 19:29:09,468] INFO - Загружено 569 строк из /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-15 19:29:09,487] INFO - Модель успешно обучена и сохранена в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/model.pkl
+[2025-06-15 19:35:59,468] INFO - Загружено 569 строк из /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-15 19:35:59,473] INFO - Модель успешно обучена и сохранена в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/model.pkl
+[2025-06-15 19:36:00,529] INFO - Загружено 569 строк из /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-15 19:36:00,534] INFO - Модель успешно обучена и сохранена в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/model.pkl
+[2025-06-15 20:10:44,350] INFO - Загружено 569 строк из /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-15 20:10:44,354] INFO - Модель успешно обучена и сохранена в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/model.pkl
+[2025-06-15 20:10:45,500] INFO - Загружено 569 строк из /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-15 20:10:45,505] INFO - Модель успешно обучена и сохранена в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/model.pkl
+[2025-06-15 21:07:22,131] INFO - Загружено 569 строк из /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-15 21:07:22,136] INFO - Модель успешно обучена и сохранена в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/model.pkl
+[2025-06-15 21:07:23,195] INFO - Загружено 569 строк из /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-15 21:07:23,200] INFO - Модель успешно обучена и сохранена в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/model.pkl
+[2025-06-16 07:43:00,024] INFO - Загружено 569 строк из /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-16 07:43:00,029] INFO - Модель успешно обучена и сохранена в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/model.pkl
+[2025-06-16 07:43:01,773] INFO - Загружено 569 строк из /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-16 07:43:01,778] INFO - Модель успешно обучена и сохранена в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/model.pkl
+[2025-06-16 09:00:48,292] INFO - Загружено 569 строк из /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-16 09:00:48,297] INFO - Модель успешно обучена и сохранена в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/model.pkl
+[2025-06-16 09:00:49,679] INFO - Загружено 569 строк из /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-16 09:00:49,684] INFO - Модель успешно обучена и сохранена в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/model.pkl
+[2025-06-16 17:34:31,056] INFO - Загружено 569 строк из /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-16 17:34:31,061] INFO - Модель успешно обучена и сохранена в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/model.pkl
+[2025-06-16 17:34:32,157] INFO - Загружено 569 строк из /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-16 17:34:32,162] INFO - Модель успешно обучена и сохранена в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/model.pkl

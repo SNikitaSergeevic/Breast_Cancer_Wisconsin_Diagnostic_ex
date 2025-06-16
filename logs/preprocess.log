@@ -1,0 +1,14 @@
+[2025-06-15 19:29:05,966] INFO - Файл прочитан: /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/data/breast_cancer.csv — 569 строк
+[2025-06-15 19:29:06,000] INFO - Предобработка завершена. Файл сохранён: /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-15 19:35:58,306] INFO - Файл прочитан: /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/data/breast_cancer.csv — 569 строк
+[2025-06-15 19:35:58,327] INFO - Предобработка завершена. Файл сохранён: /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-15 20:10:43,227] INFO - Файл прочитан: /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/data/breast_cancer.csv — 569 строк
+[2025-06-15 20:10:43,249] INFO - Предобработка завершена. Файл сохранён: /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-15 21:07:20,560] INFO - Файл прочитан: /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/data/breast_cancer.csv — 569 строк
+[2025-06-15 21:07:20,582] INFO - Предобработка завершена. Файл сохранён: /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-16 07:42:58,937] INFO - Файл прочитан: /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/data/breast_cancer.csv — 569 строк
+[2025-06-16 07:42:58,958] INFO - Предобработка завершена. Файл сохранён: /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-16 09:00:46,611] INFO - Файл прочитан: /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/data/breast_cancer.csv — 569 строк
+[2025-06-16 09:00:46,633] INFO - Предобработка завершена. Файл сохранён: /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv
+[2025-06-16 17:34:30,302] INFO - Файл прочитан: /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/data/breast_cancer.csv — 569 строк
+[2025-06-16 17:34:30,324] INFO - Предобработка завершена. Файл сохранён: /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/preprocessed/preprocessed_data.csv

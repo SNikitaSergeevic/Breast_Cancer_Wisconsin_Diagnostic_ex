@@ -1,0 +1,35 @@
+[2025-06-15 19:29:09,499] INFO - Метрики сохранены в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/metrics.json
+[2025-06-15 19:29:09,499] INFO - accuracy: 0.9737
+[2025-06-15 19:29:09,499] INFO - precision: 0.9722
+[2025-06-15 19:29:09,499] INFO - recall: 0.9859
+[2025-06-15 19:29:09,499] INFO - f1_score: 0.979
+[2025-06-15 19:36:00,542] INFO - Метрики сохранены в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/metrics.json
+[2025-06-15 19:36:00,542] INFO - accuracy: 0.9737
+[2025-06-15 19:36:00,542] INFO - precision: 0.9722
+[2025-06-15 19:36:00,542] INFO - recall: 0.9859
+[2025-06-15 19:36:00,542] INFO - f1_score: 0.979
+[2025-06-15 20:10:45,513] INFO - Метрики сохранены в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/metrics.json
+[2025-06-15 20:10:45,513] INFO - accuracy: 0.9737
+[2025-06-15 20:10:45,513] INFO - precision: 0.9722
+[2025-06-15 20:10:45,513] INFO - recall: 0.9859
+[2025-06-15 20:10:45,513] INFO - f1_score: 0.979
+[2025-06-15 21:07:23,207] INFO - Метрики сохранены в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/metrics.json
+[2025-06-15 21:07:23,207] INFO - accuracy: 0.9737
+[2025-06-15 21:07:23,208] INFO - precision: 0.9722
+[2025-06-15 21:07:23,208] INFO - recall: 0.9859
+[2025-06-15 21:07:23,208] INFO - f1_score: 0.979
+[2025-06-16 07:43:01,785] INFO - Метрики сохранены в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/metrics.json
+[2025-06-16 07:43:01,785] INFO - accuracy: 0.9737
+[2025-06-16 07:43:01,785] INFO - precision: 0.9722
+[2025-06-16 07:43:01,786] INFO - recall: 0.9859
+[2025-06-16 07:43:01,786] INFO - f1_score: 0.979
+[2025-06-16 09:00:49,690] INFO - Метрики сохранены в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/metrics.json
+[2025-06-16 09:00:49,690] INFO - accuracy: 0.9737
+[2025-06-16 09:00:49,690] INFO - precision: 0.9722
+[2025-06-16 09:00:49,690] INFO - recall: 0.9859
+[2025-06-16 09:00:49,690] INFO - f1_score: 0.979
+[2025-06-16 17:34:32,169] INFO - Метрики сохранены в /mnt/sda1/MIPT_Common/Data_engeneering/Breast_Cancer_Wisconsin_Diagnostic_ex/results/metrics.json
+[2025-06-16 17:34:32,169] INFO - accuracy: 0.9737
+[2025-06-16 17:34:32,169] INFO - precision: 0.9722
+[2025-06-16 17:34:32,169] INFO - recall: 0.9859
+[2025-06-16 17:34:32,169] INFO - f1_score: 0.979
